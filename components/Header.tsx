@@ -44,7 +44,7 @@ const Header = () => {
         </Link>
         <div className="flex items-center space-x-4 leading-5 sm:space-x-6">
           <div className="text-white font-extrabold text-2xl">
-            <h1>venue: Mar Baselios Central School,Maruthamonpally</h1>
+            <h1>venue: Mar Baselios School,Maruthamonpally</h1>
           </div>
           <div className="flex items-center space-x-4">
             <div className="flex items-center">
