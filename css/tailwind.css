@@ -61,3 +61,13 @@ input:-webkit-autofill:focus {
   vertical-align: middle;
 }
 
+
+.hide-scrollbar {
+  overflow: auto;
+  scrollbar-width: none;        /* Firefox */
+  -ms-overflow-style: none;     /* IE & Edge */
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;                /* Chrome, Safari, Opera */
+}
