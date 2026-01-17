@@ -29,11 +29,14 @@ export default function Home({ posts }) {
   <span style={{ color: "#FFBD33" }}>e</span>
   <span style={{ color: "#9C33FF" }}>s</span>
   <span style={{ color: "#FF3333" }}>t</span>
-  <span style={{ color: "#FF5733" }}> </span>
+  <span className="mr-4" style={{ color: "#FF5733" }}> </span>
   <span style={{ color: "#33FF57" }}>2</span>
   <span style={{ color: "#3357FF" }}>0</span>
   <span style={{ color: "#FF33A1" }}>2</span>
-  <span style={{ color: "#FFBD33" }}>6</span>
+  <span style={{ color: "#FFBD33" }}>5</span>
+  <span style={{ color: "#FF5733" }}>-</span>
+  <span style={{ color: "#33FFF5" }}>2</span>
+  <span style={{ color: "#FF3333" }}>6</span>
   
 </h1>
         </div>
