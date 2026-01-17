@@ -64,7 +64,14 @@ const Header = () => {
                   Venue: Mar Baselios School, Maruthamonpally — Welcome to the Event — Check out for Schedule —
                 </span>
               </div>
-            </div>
+            ) : (
+              siteMetadata.headerTitle
+            )}
+          </div>
+        </Link>
+        <div className="flex items-center space-x-4 leading-5 sm:space-x-6">
+          <div className="text-white font-extrabold text-2xl">
+            <h1>venue: Mar Baselios Public School, Kaithacode</h1>
           </div>
         </div>
 
