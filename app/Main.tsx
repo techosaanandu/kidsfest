@@ -33,10 +33,8 @@ export default function Home({ posts }) {
   <span style={{ color: "#33FF57" }}>2</span>
   <span style={{ color: "#3357FF" }}>0</span>
   <span style={{ color: "#FF33A1" }}>2</span>
-  <span style={{ color: "#FFBD33" }}>4</span>
-  <span style={{ color: "#FF5733" }}>-</span>
-  <span style={{ color: "#33FFF5" }}>2</span>
-  <span style={{ color: "#FF3333" }}>5</span>
+  <span style={{ color: "#FFBD33" }}>6</span>
+  
 </h1>
         </div>
         <div className="flex justify-center ">
