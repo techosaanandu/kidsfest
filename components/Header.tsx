@@ -57,7 +57,7 @@ const Header = () => {
             <div className="relative flex overflow-x-hidden">
               <div className="animate-marquee whitespace-nowrap flex">
                 <span className="text-sm sm:text-base font-bold text-white uppercase tracking-widest mx-4">
-                  Venue: Mar Baselios Public School, Kaithacode — Welcome to the Event — Check out for Schedule —
+                  Venue: Mar Baselios School, Maruthamonpally — Welcome to the Event — Check out for Schedule —
                 </span>
                 {/* Duplicate for seamless loop */}
                 <span className="text-sm sm:text-base font-bold text-white uppercase tracking-widest mx-4">
